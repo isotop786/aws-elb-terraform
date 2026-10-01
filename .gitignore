@@ -1,0 +1,4 @@
+./default-ec2.pem
+terraform.tfstate
+.terraform
+terraform.tfstate.backup
